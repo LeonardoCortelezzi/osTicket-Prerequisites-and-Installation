@@ -1227,7 +1227,6 @@ Now click apply
 <p>
 <img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20df729d-6052-413c-ba38-c9048da1ca23"/>
 </p>
-<p>
-Finally click ok then click the link to continue the Post-Installation Configuration https://github.com/LeonardoCortelezzi/osTicket-Post-Installation-Configuration
-</p>
 <br />
+
+For Post-Installation  [Continue Here](https://github.com/LeonardoCortelezzi/osTicket-Post-Installation-Configuration)
